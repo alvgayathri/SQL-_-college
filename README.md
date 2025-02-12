@@ -80,5 +80,8 @@ INSERT INTO rand (age) VALUES (22);
 ## Conclusion  
 This script covers fundamental SQL concepts such as table creation, constraints, default values, and data insertion. Errors are intentionally included to demonstrate how constraints like `UNIQUE` and `CHECK` work.  
 
+![WhatsApp Image 2025-02-12 at 12 45 33_16dc4863](https://github.com/user-attachments/assets/b4f38fe4-73d8-4626-bb82-275e577afdc7)
+
+
 ## Note  
 Ensure that the database `college` does not already exist before running the script.  
