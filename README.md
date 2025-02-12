@@ -1,5 +1,4 @@
-# SQL-_-college
-# College Database SQL Script
+# SQL-_-college(College Database SQL Script)
 
 ## Description  
 This SQL script demonstrates basic database and table creation, along with insert operations, constraints, and validations. It focuses on creating tables with various constraints like `PRIMARY KEY`, `UNIQUE`, `DEFAULT`, and `CHECK`.
